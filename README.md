@@ -1,6 +1,4 @@
 # MainFlowServices_Full-Stack-Web-Development-Task-1
-Improve,Responsive Design and Media Queries
+TASK 1: Basic Level: HTML Structure & Styling
 <br>
-Description: Improve previous web pages with CSS property, Implement responsive design techniques using media queries to ensure optimal display and usability across various devices and screen sizes.
-<br>
-Responsibility: Test responsiveness on different devices and browsers, ensuring a consistent user experience. Prioritize performance and accessibility in responsive design.
+Description: Create a simple webpage using HTML to define its structure and CSS to style the elements such as text, colors and layout.
